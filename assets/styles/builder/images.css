@@ -1,0 +1,25 @@
+.image-100{
+    
+    width: 100px !important;
+        height: 100px!important;
+        object-fit: contain;
+}
+.image-200{
+    
+    width: 200px !important;
+        height: 200px !important;
+        object-fit: contain;
+}
+.image-150{
+    
+    width: 150px !important;
+        height: 150px !important;
+        object-fit: contain;
+}
+
+.image-480{
+    
+    width: 480px !important;
+        height: 480px !important;
+        object-fit: contain;
+}

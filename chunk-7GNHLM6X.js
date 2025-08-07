@@ -1,0 +1,1 @@
+import{r as p}from"./chunk-IPZIKDLO.js";import{d as i}from"./chunk-TBJJFKUM.js";import{P as r,ia as n}from"./chunk-4KZPWME3.js";var c=new i(()=>!1),g=(t,o)=>{let e=n(p);return t.context.get(c)?o(t):(e.show(),o(t).pipe(r(()=>{e.hide()})))};export{c as a,g as b};
